@@ -19,7 +19,7 @@ ReactDOM.createRoot(document.getElementById("root")!).render(
           </a>
           , source on{" "}
           <a
-            href="https://github.com/get-convex/convex-lucia-auth-demo"
+            href="https://github.com/convex/convex-lucia-auth-demo"
             target="_blank"
           >
             Github
